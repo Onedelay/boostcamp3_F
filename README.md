@@ -57,9 +57,7 @@ strava, 오픈라이더 같은 경로 저장 어플리케이션은 주로 운동
 
 - 실시간 위치 트래킹을 위한 FusedLocationService
 - 전체 경로를 간소화시켜 보여주기 위한 Google Static Map API
-- 여러 활동마커를 지도위에 Clustering
 - Rx를 통한 데이터 관련 비동기 처리
-- Glide를 이용해 이미지 Cashing
 - Room을 이용한 Local DB 관리
 - Retrofit을 이용한 서버 통신
 
